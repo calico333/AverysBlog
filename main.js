@@ -37,8 +37,3 @@ http.onreadystatechange = function()
         body.appendChild(newElement);
     }
 }
-
-var data = '{ "data" : [ ' +
-'{ "connected":"true"} ]}';
-
-http.send(JSON.parse(data));
