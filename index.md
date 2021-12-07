@@ -29,7 +29,7 @@
         <table width = "60%" border = "0">
             <tr>
                 <td width = "200" height = "200">
-                    <a href = "oracle.md" target = "_self">
+                    <a href = "Oracle/oracle.md" target = "_self">
                         <img src = "Thumbnails/christ.jpg" alt = "christ is king"/>
                     </a>
                 </td>
